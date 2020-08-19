@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home'
+let g:netrw_dirhist_2='/mnt/c/Users/mnt/Documents/Documente/Privat/Coding/Python/02_hangman'
